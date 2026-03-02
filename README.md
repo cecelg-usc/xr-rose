@@ -7,7 +7,7 @@
 dependencies:
 - data format - xarray (https://docs.xarray.dev/en/stable/)
 - vizualization - plotly (https://plotly.com/python/)
-- computation- sumpy, pandas, itertools
+- computation- numpy, pandas, itertools
 
 try on our Bahamas dataset (choose from wind, waves, and tides). should be able to reproduce for wind:
 ![newplot (4)](https://github.com/cecelg-um/xr-rose/assets/116894051/83a296c7-9b7a-4915-a3d1-3c220deb3480)
